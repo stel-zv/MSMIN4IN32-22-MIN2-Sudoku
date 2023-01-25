@@ -16,6 +16,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Puzzles", "Puzzles", "{5351
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.Z3Solvers", "Sudoku.Z3Solvers\Sudoku.Z3Solvers.csproj", "{A35C20E9-B1AC-47FD-9213-E84C6C37C2E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku Solver Z3", "Sudoku Solver Z3\Sudoku Solver Z3.csproj", "{F0E765B2-9C33-4303-A1B0-6A00EA0244BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.ORtools", "Sudoku.ORtools\Sudoku.ORtools.csproj", "{3BB01BAE-66A2-447C-92E8-DA6775AADBAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +38,14 @@ Global
 		{A35C20E9-B1AC-47FD-9213-E84C6C37C2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A35C20E9-B1AC-47FD-9213-E84C6C37C2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A35C20E9-B1AC-47FD-9213-E84C6C37C2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E765B2-9C33-4303-A1B0-6A00EA0244BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E765B2-9C33-4303-A1B0-6A00EA0244BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E765B2-9C33-4303-A1B0-6A00EA0244BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E765B2-9C33-4303-A1B0-6A00EA0244BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB01BAE-66A2-447C-92E8-DA6775AADBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB01BAE-66A2-447C-92E8-DA6775AADBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB01BAE-66A2-447C-92E8-DA6775AADBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB01BAE-66A2-447C-92E8-DA6775AADBAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
