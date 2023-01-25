@@ -10,4 +10,5 @@ namespace SolverCSPLea
             return s.CloneSudoku();
         }
     }
+    // bonjour ceci est un test pour tester 
 }
