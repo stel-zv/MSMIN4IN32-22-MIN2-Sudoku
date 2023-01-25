@@ -1,4 +1,4 @@
-using Sudoku.shared;
+using Sudoku.Shared;
 
 namespace Sudoku.DlxLib
 {
