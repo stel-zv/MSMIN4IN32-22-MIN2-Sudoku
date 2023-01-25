@@ -10,6 +10,7 @@
     <ProjectReference Include="..\SolverCSPLea\SolverCSPLea.csproj" />
     <ProjectReference Include="..\Norvig\Sudoku.Norvig.csproj" />
     <ProjectReference Include="..\Sudoku.PSO\Sudoku.PSO.csproj" />
+    <ProjectReference Include="..\Sodoku.GraphColoring\Sodoku.GraphColoring.csproj" />
     <ProjectReference Include="..\Sudoku.Shared\Sudoku.Shared.csproj" />
     <ProjectReference Include="..\Sudoku.Z3Solvers\Sudoku.Z3Solvers.csproj" />
     <ProjectReference Include="..\Sudoku.DemoZ3\Sudoku.DemoZ3.csproj" />

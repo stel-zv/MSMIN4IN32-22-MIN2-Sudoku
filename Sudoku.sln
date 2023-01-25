@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Norvig", "Norvig\Sud
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.PSO", "Sudoku.PSO\Sudoku.PSO.csproj", "{A40F1577-BA52-4E0C-BC4E-0DFD2B05609F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sodoku.GraphColoring", "Sodoku.GraphColoring\Sodoku.GraphColoring.csproj", "{2CF35D22-9643-4407-97B2-69BC69D94052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{A40F1577-BA52-4E0C-BC4E-0DFD2B05609F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A40F1577-BA52-4E0C-BC4E-0DFD2B05609F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A40F1577-BA52-4E0C-BC4E-0DFD2B05609F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF35D22-9643-4407-97B2-69BC69D94052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF35D22-9643-4407-97B2-69BC69D94052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF35D22-9643-4407-97B2-69BC69D94052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF35D22-9643-4407-97B2-69BC69D94052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
