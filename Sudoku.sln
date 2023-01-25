@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku Solver Z3", "Sudoku 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.ORtools", "Sudoku.ORtools\Sudoku.ORtools.csproj", "{3BB01BAE-66A2-447C-92E8-DA6775AADBAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.DlxLib", "Sudoku.DlxLib\Sudoku.DlxLib.csproj", "{3510E1A0-645F-4511-ACAA-968816355135}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -76,6 +78,10 @@ Global
 		{3BB01BAE-66A2-447C-92E8-DA6775AADBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BB01BAE-66A2-447C-92E8-DA6775AADBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BB01BAE-66A2-447C-92E8-DA6775AADBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3510E1A0-645F-4511-ACAA-968816355135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3510E1A0-645F-4511-ACAA-968816355135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3510E1A0-645F-4511-ACAA-968816355135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3510E1A0-645F-4511-ACAA-968816355135}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
