@@ -30,7 +30,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.ORtools", "Sudoku.OR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.DlxLib", "Sudoku.DlxLib\Sudoku.DlxLib.csproj", "{3510E1A0-645F-4511-ACAA-968816355135}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.GeneticAlgorithm", "Sudoku.GeneticAlgorithm\Sudoku.GeneticAlgorithm.csproj", "{DC757595-8654-45A0-9426-E266BF764550}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.GeneticAlgorithmSolver", "Sudoku.GeneticAlgorithm\Sudoku.GeneticAlgorithmSolver.csproj", "{DC757595-8654-45A0-9426-E266BF764550}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
