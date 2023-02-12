@@ -7,7 +7,6 @@ namespace Sudoku.GeneticAlgorithm
         public SudokuGrid Solve(SudokuGrid s)
         {
             return s;
-            // test
         }
     }
 }
